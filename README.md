@@ -1,3 +1,24 @@
+- This is a full stack web application called Pinify
+
+- It's intent is to be a pinterest website but for music that you can share with others. 
+
+- Bootstrapped using
+
+- NestJs
+- React
+- MongoDB
+ 
+
+
+
+
+
+
+
+
+
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
