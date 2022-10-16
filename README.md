@@ -1,14 +1,14 @@
-# Pinify
+# It's like Pinterest for music!
 
-## It's like pinterest but for music
+[![Pinify](https://img.shields.io/badge/Pinify-0.1.0-blue.svg)](https://github.com/professorjrod/Pinify)
 
-- Bootstrapped using
+## Bootstrapped using
 
 - [![Nest][nestjs]][nest-url]
-- [![React][https://img.shields.io/badge/-reactjs-61dafb?logo=react]][reactjs.org]
+- [![React][reactjs]][react-url]
 - [![Tailwindcss][tailwindcss]][tailwindcss-url]
 
-## Description
+# Getting started
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
@@ -48,5 +48,5 @@ $ npm run test:cov
 [nest-url]: https://nestjs.com/
 [tailwindcss]: https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff
 [tailwindcss-url]: https://tailwindcss.com
-[reactjs]: https://img.shields.io/badge/-ReactJs-61DAFB?logo=react
-[reactjs-url]: https://reactjs.org/
+[reactjs]: https://shields.io/badge/react-black?logo=react&style=for-the-badge%22
+[react-url]: https://reactjs.org/
