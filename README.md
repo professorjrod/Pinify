@@ -4,9 +4,9 @@
 
 - Bootstrapped using
 
-- [![Nest][https://img.shields.io/badge/nestjs-000000?style=for-the-badge&logo=nestjs&logocolor=e0234e]][https://nestjs.com/]
+- [![Nest][nestjs]][nest-url]
 - [![React][https://img.shields.io/badge/-reactjs-61dafb?logo=react]][reactjs.org]
-- [![Tailwindcss][https://img.shields.io/badge/tailwindcss-06b6d4?style=for-the-badge&logo=tailwindcss&logocolor=fff]][https://tailwindcss.com]
+- [![Tailwindcss][tailwindcss]][tailwindcss-url]
 
 ## Description
 
@@ -43,3 +43,10 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
+
+[nestjs]: https://img.shields.io/badge/nestJS-000000?style=for-the-badge&logo=nestjs&logoColor=E0234E
+[nest-url]: https://nestjs.com/
+[tailwindcss]: https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff
+[tailwindcss-url]: https://tailwindcss.com
+[reactjs]: https://img.shields.io/badge/-ReactJs-61DAFB?logo=react
+[reactjs-url]: https://reactjs.org/
